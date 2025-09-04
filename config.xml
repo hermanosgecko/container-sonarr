@@ -1,0 +1,19 @@
+<Config>
+  <AnalyticsEnabled>False</AnalyticsEnabled>
+  <AuthenticationMethod>External</AuthenticationMethod>
+  <AuthenticationRequired>DisabledForLocalAddresses</AuthenticationRequired>
+  <BindAddress>*</BindAddress>
+  <Branch>main</Branch>
+  <EnableSsl>False</EnableSsl>
+  <InstanceName>Sonarr</InstanceName>
+  <LaunchBrowser>False</LaunchBrowser>
+  <LogLevel>info</LogLevel>
+  <Port>8989</Port>
+  <SslPort>9898</SslPort>
+  <SslCertPath></SslCertPath>
+  <SslCertPassword></SslCertPassword>
+  <UrlBase></UrlBase>
+  <UpdateAutomatically>False</UpdateAutomatically>
+  <UpdateMechanism>Docker</UpdateMechanism>
+  <Theme>auto</Theme>
+</Config>
